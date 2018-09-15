@@ -1,0 +1,2 @@
+C:\Users\BillA\Documents\Visual Studio 2017\Projects\ExcelWebAddIn5\ExcelWebAddIn5\obj\Debug\ExcelWebAddIn5.csproj.CoreCompileInputs.cache
+C:\Users\BillA\Documents\Visual Studio 2017\Projects\ExcelWebAddIn5\ExcelWebAddIn5\obj\Debug\ExcelWebAddIn5.csprojAssemblyReference.cache

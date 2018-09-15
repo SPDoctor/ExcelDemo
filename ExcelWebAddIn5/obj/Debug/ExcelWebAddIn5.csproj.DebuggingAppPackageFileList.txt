@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ExcelWebAddIn5Manifest.xml
+C:\Users\BillA\Documents\Visual Studio 2017\Projects\ExcelWebAddIn5\ExcelWebAddIn5\bin\Debug\ExcelWebAddIn5.debugapp
